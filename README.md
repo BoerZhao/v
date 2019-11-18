@@ -24,7 +24,7 @@
 锋，用if来进行异常处理。再这个实验中，最容易出现的异常便是空字符。因此我设定了若input的值为空，那么则抛出提
 示，表示输入不能为空
 2， 流程图
-
+![233233](![233]https://github.com/BoerZhao/Zbe/blob/master/图片1.png)
 3,代码解释
  package chang;
 
